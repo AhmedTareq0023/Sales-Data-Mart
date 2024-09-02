@@ -5,4 +5,5 @@ Destination (DWH).
 
 #                                    [Queries.txt](https://github.com/user-attachments/files/16840589/Queries.txt)
 
-                                            ![Star_Schema](https://github.com/user-attachments/assets/c4c9bfa5-61df-40bb-a7cf-51d0f96550a5)
+![Star_Schema](https://github.com/user-attachments/assets/a032ee0b-3cad-403b-a6ac-07facbbd3532)
+
