@@ -3,4 +3,4 @@
 # Historical Data by Slowly Change Dimension Technique (SCD) to be Suitable and Transfer The Data to 
 # Destination (DWH).
 
-[Queries.txt](https://github.com/user-attachments/files/16840589/Queries.txt)
+#    [Queries.txt](https://github.com/user-attachments/files/16840589/Queries.txt)
