@@ -2,6 +2,7 @@
 USE EO_AdventureWorksDW2014;
 
 -- DDL Quesries
+
 CREATE TABLE Dim_Product (
 	product_key int not null identity(1,1), -- surrogate key, system key
 	product_id int not null, -- alternate key, business key
@@ -26,6 +27,7 @@ CREATE TABLE Dim_Product (
 )
 
 -- Indexes
+
 CREATE INDEX dim_product_product_id
 ON Dim_Product(product_id)
 
