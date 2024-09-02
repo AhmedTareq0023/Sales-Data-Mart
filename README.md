@@ -4,3 +4,5 @@ Historical Data by Slowly Change Dimension Technique (SCD) to be Suitable and Tr
 Destination (DWH).
 
 #                                    [Queries.txt](https://github.com/user-attachments/files/16840589/Queries.txt)
+
+                                            ![Star_Schema](https://github.com/user-attachments/assets/c4c9bfa5-61df-40bb-a7cf-51d0f96550a5)
